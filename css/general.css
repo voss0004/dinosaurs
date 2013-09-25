@@ -33,3 +33,29 @@ body {
 .nav li {
 	display: inline-block;
 }
+
+.intro {
+	font-style: italic;	
+}
+
+.sub intro {
+	font-size: 0.875rem;
+	font-style:italic;	
+}
+
+.bucket {
+	margin-bottom: 8px;
+	padding: 1em;
+	background-color: #ccc;
+	border-radius: 8px;	
+}
+
+.bucket h3 {
+	margin: 0;
+		
+}
+
+.bucket p {
+	margin: 0;
+	
+}
